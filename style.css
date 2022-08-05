@@ -1,0 +1,28 @@
+html, body { 
+  height: 100%;
+  width: 100%;
+}
+body{
+  border: 5px solid #eeff00;
+  width: 50%;
+  height: 53%;
+}
+.inicio{
+  background-color: #02b6f2;
+}
+img{
+  display: inline-block; 
+  position: absolute;
+  right:50%;
+  
+}
+
+h1{
+  display: inline-block; 
+}
+hr{
+  border-top: 1px solid #eeff00;
+}
+
+
+
